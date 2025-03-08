@@ -29,8 +29,6 @@
     </td>
     <td>
       <br />
-      
-    </td>
   </tr>
 </table>
 <picture align="center">

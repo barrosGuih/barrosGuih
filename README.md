@@ -22,4 +22,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+
 

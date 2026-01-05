@@ -19,11 +19,6 @@
   <a href = "mailto:guilherme.barros.cunha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-<a href="https://github.com/barrosGuih">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrosGuih&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=barrosGuih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake-dark.svg">

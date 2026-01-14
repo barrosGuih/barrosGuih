@@ -12,7 +12,7 @@ Developer focused on building web applications and exploring new technologies.
 
 ### 📬 Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/SEU_LINK_AQUI)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barrosGuih)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:guilherme.barros.cunha@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/_guihb4rros/)
 

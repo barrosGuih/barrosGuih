@@ -1,33 +1,45 @@
-# Hi, I'm Guilherme Barros! 👋
-
-<p align="center">
-  <!-- Essa é a imagem do Wall-E que você enviou. Ela fica como um tema visual massa -->
-  <img src="https://i.ibb.co/L5Z5vjT/walle-coding.jpg" alt="Wall-E Coding" width="500">
-</p>
-
-### 💻 About Me
-I am a **Technical Degree holder in IT** and currently a **Software Analysis and Development (ADS)** student. 
-
-I have a deep passion for technology and I am constantly looking for new challenges to solve through code. My background as a technician gave me a strong foundation, and now I am expanding my knowledge in software engineering to build robust and innovative solutions.
-
----
-
-### 🛠 My Tech Stack
-<div style="display: inline_block">
-  <img align="center" alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <h1>Hi, I'm Guilherme Barros! 👋</h1>
+  <p><b>IT Technician | Software Analysis & Development Student</b></p>
+  
+  <!-- Linha de Redes Sociais com Badges Minimalistas -->
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilherme.barros.cunha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/_guihb4rros/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
+<br/>
+
+### 📑 About Me
+- 🎓 **Background:** Certified IT Technician with a solid foundation in hardware and systems.
+- 🚀 **Current Journey:** Pursuing a Bachelor's degree in **Software Analysis and Development (ADS)**.
+- 🌍 **Goal:** Becoming a high-level Software Engineer and working on global, innovative projects.
+- 💡 **Passion:** Solving complex problems through clean, efficient code and always learning new technologies.
+
 ---
 
-### 📡 Let's Connect
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.barros.cunha@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guihb4rros/)
+### 🛠 Tech Stack
+I'm constantly expanding my skill set. Here are the technologies I work with:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,python,java,html,css,git,linux,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barrosGuih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrosGuih&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
 ---
 
@@ -38,6 +50,8 @@ I have a deep passion for technology and I am constantly looking for new challen
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br />
+<br/>
 
-*"Always learning, always coding."* 🚀
+<div align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+</div>

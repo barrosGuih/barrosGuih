@@ -4,7 +4,7 @@ Developer focused on building web applications and exploring new technologies.
 
 ---
 
-### 🛠 Tech Stack (Ordered by proficiency)
+### 🛠 Tech Stack 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,typescript,react,py,java,git,html,css,linux,vscode&theme=dark)](https://skillicons.dev)
 

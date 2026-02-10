@@ -6,7 +6,7 @@ Developer focused on building web applications and exploring new technologies.
 
 ### 🛠 Tech Stack 
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nextjs,typescript,react,py,java,cs,net,unity,git,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,py,cs,net,unity,git,linux,figma)](https://skillicons.dev)
 
 ---
 

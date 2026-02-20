@@ -13,10 +13,10 @@ Developer focused on building web applications and exploring new technologies.
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,py,cs)](https://skillicons.dev)
 
 #### 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 #### 🚀 Outras Tecnologias & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,unity,vercel,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,unity,vercel)](https://skillicons.dev)
 
 ---
 

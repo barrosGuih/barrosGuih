@@ -1,12 +1,31 @@
-# Hi, I'm Guilherme Barros 👋
+# Hi, I'm Guilherme Barros.
 
 Developer focused on building web applications and exploring new technologies.
 
 ---
 
-### 🛠 Tech Stack 
+### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,nodejs,react,spring,py,cs,unity,git)](https://skillicons.dev)
+#### 💻 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind)](https://skillicons.dev)
+
+#### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,py,cs)](https://skillicons.dev)
+
+#### 🗄️ Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+#### 🚀 Outras Tecnologias & Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,unity,vercel,postman)](https://skillicons.dev)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barrosGuih&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrosGuih&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
@@ -18,10 +37,9 @@ Developer focused on building web applications and exploring new technologies.
 
 ---
 
+### 🐍 Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
 </picture>
-
-<br/>

@@ -1,6 +1,7 @@
 # Hi, I'm Guilherme Barros 👋
 
-Developer focused on building web applications and exploring new technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=072bfc&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+%2B+React;Explorando+Novas+Tecnologias" alt="Developer" />
+</div>
 
 ---
 

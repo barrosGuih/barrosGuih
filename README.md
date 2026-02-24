@@ -35,7 +35,10 @@ Developer focused on building web applications and exploring new technologies.
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/_guihb4rros/)
 
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake-dark.svg">
+  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
+  
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/barrosGuih/barrosGuih/output/github-contribution-grid-snake.svg">
 </picture>

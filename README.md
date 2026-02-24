@@ -1,6 +1,7 @@
 # Hi, I'm Guilherme Barros 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=072bfc&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+%2B+React;Explorando+Novas+Tecnologias" alt="Developer" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=072bfc&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;T%C3%A9cnico+em+Inform%C3%A1tica;Graduando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Developer" />
 </div>
 
 ---

@@ -23,7 +23,7 @@
 ---
 
 ### 📊 Estatísticas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barrosGuih&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=barrosGuih&theme=tokyonight&hide_border=true)
 
 ---
 

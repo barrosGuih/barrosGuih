@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
 #### 🚀 Outras Tecnologias & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,unity,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,unity,vercel,arduino)](https://skillicons.dev)
 
 ---
 
